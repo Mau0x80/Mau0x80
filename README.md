@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working at [@unilever](https://github.com/unilever)
+- 🔭 I’m currently working at [@teads](https://github.com/teads)
 - 😄 Pronouns: He/Him
 - 💬 Ask me about Python and R
 - 🌱 I’m currently learning Vision computation
