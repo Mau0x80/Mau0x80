@@ -1,16 +1,8 @@
 # 👋 Hi, I'm Mauricio
 
-**IT Director | Homelab Architect | Automation Enthusiast**
+Homelab Architect | Automation Enthusiast**
 
 I design, build, and optimize **scalable IT ecosystems** combining infrastructure, networking, and automation.
-
----
-
-## 🚀 About Me
-
-- 🔭 I’m currently working at [@teads](https://github.com/teads)
-- 📫 How to reach me: [Telegram](https://t.me/Mauri81) | [Twitter](https://twitter.com/mau0x80)
-- ⚡ Fun fact: I love aviation ✈️
 
 ---
 
